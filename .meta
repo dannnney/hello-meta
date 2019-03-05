@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "e2e": "git@github.com:velosoft/hytron-ide-test-e2e.git"
+  }
+}
